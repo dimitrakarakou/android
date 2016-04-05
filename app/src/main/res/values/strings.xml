@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyPEGA</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Main Page</string>
+    <string name="information_settings">Information</string>
+    <string name="help_settings">Help</string>
+    <string name="about_settings">About</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello information  fragment</string>
+    <string name="hello_help_fragment">Hello help fragment</string>
+    <string name="back_teacher_list_settings">Back to the list</string>
+    <string name="back_map_settings">Back to main page</string>
+
+
+
+</resources>
